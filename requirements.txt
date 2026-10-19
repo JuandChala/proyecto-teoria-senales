@@ -1,0 +1,6 @@
+# Dependencias del proyecto (Python 3.9 o superior)
+numpy>=1.22
+matplotlib>=3.5
+
+# Solo para ejecutar las pruebas automáticas (opcional):
+# pytest>=7.0
