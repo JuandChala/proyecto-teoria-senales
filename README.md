@@ -6,7 +6,7 @@
 
 | Nombre | Programa | Código | Usuario de GitHub |
 |---|---|---|---|
-| Juan David Chalarca Galvez | Ingeniería en Sistemas y Telecomunicaciones | 8202412521 | @tu-usuario |
+| Juan David Chalarca Galvez | Ingeniería en Sistemas y Telecomunicaciones | 8202412521 | @JuandChala |
 
 ## 2. Descripción
 
@@ -57,7 +57,7 @@ Ver también [`data/README.md`](data/README.md).
 
 ```bash
 # 1) Clonar y entrar a la carpeta
-git clone <URL-del-repositorio>
+git clone https://github.com/JuandChala/proyecto-teoria-senales.git
 cd proyecto-teoria-senales
 
 # 2) (Recomendado) entorno virtual
